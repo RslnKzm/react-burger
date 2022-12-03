@@ -20,4 +20,4 @@ MenuItem.propTypes = {
     icon: PropTypes.element.isRequired
 };
 
-export default MenuItem;
+export default MenuItem; 
